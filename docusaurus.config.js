@@ -5,20 +5,20 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'mcclowes',
+  title: 'ajackson',
   tagline: 'Personal blog',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://mcclowes.com',
+  url: 'https://ajackson.me',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'mcclowes', // Usually your GitHub org/user name.
-  projectName: 'mcclowes.com', // Usually your repo name.
+  organizationName: 'ajackson-x', // Usually your GitHub org/user name.
+  projectName: 'ajackson.me', // Usually your repo name.
 
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
@@ -41,14 +41,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/mcclowes/mcclowes.com',
+            'https://github.com/ajackson-x/ajackson.me',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/mcclowes/mcclowes.com',
+            'https://github.com/ajackson-x/ajackson.me',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -67,9 +67,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'mcclowes',
+        title: 'ajackson',
         logo: {
-          alt: 'mcclowes logo',
+          alt: 'ajackson logo',
           src: 'img/logo.svg',
           srcDark: 'img/logo-dark.svg'
         },
@@ -83,7 +83,7 @@ const config = {
           //   label: 'Tutorial',
           // },
           {
-            href: 'https://github.com/mcclowes',
+            href: 'https://github.com/ajackson-x',
             label: 'GitHub',
             position: 'right',
           },
@@ -110,12 +110,8 @@ const config = {
             items: [
               {
                 label: 'LinkedIn',
-                href: 'https://www.linkedin.com/in/maxclaytonclowes/',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/mcclowes',
-              },
+                href: 'https://www.linkedin.com/in/andrew-durban-jackson/',
+              }
             ],
           },
           {
@@ -123,12 +119,12 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/mcclowes',
+                href: 'https://github.com/ajackson-x',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} mcclowes, Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} ajackson, Built with Docusaurus.`,
       },
       
       prism: {
