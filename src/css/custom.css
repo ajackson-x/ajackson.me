@@ -23,7 +23,7 @@
   --ifm-color-primary-lightest: #8EE3C6;*/
 
 
-  --color-green: #4b5f5f;
+  --color-green: #2e7685;
   --color-offwhite: #fffae1;
 
   --color-font-primary: #333;
@@ -39,14 +39,13 @@
   --ifm-heading-color: var(--color-font-header);  
   --ifm-navbar-link-color: var(--color-font-header);  
 
-
-  --ifm-color-primary: var(--color-green); /*#437868;*/
-  --ifm-color-primary-dark: #3c6c5e;
-  --ifm-color-primary-darker: #396658;
-  --ifm-color-primary-darkest: #2f5449;
-  --ifm-color-primary-light: #4a8472;
-  --ifm-color-primary-lighter: #4d8a78;
-  --ifm-color-primary-lightest: #579c87;
+  --ifm-color-primary: #2e7685;
+  --ifm-color-primary-dark: #296a78;
+  --ifm-color-primary-darker: #276471;
+  --ifm-color-primary-darkest: #20535d;
+  --ifm-color-primary-light: #338292;
+  --ifm-color-primary-lighter: #358899;
+  --ifm-color-primary-lightest: #3c99ad;
   
   --ifm-code-font-size: 95%;
 
