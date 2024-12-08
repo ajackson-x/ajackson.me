@@ -2,7 +2,9 @@
 title: About me
 ---
 
-I am a Product Manager ...
+I am a Product Manager with a technical business analysis background in fintech and a strong track record delivering products for 8+ years.
+
+I drive teams to learn and adapt, fostering teamwork and a client-first mindset.
 
 [/contact](mailto:andrewdurbanjackson@gmail.com)
 
