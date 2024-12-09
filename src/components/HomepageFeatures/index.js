@@ -5,7 +5,7 @@ import Link from '@docusaurus/Link';
 
 const FeatureList = [
   {
-    title: '/blog',
+    title: 'Blog',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     link: '/blog',
     description: (
@@ -15,7 +15,7 @@ const FeatureList = [
     ),
   },
   {
-    title: '/about-me',
+    title: 'About me',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     link: '/about-me',
     description: (
@@ -23,17 +23,7 @@ const FeatureList = [
         Contact and social media links.
       </>
     ),
-  },
-  {
-    title: '/linktree',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
-    link: 'https://linktr.ee/mcclowes',
-    description: (
-      <>
-        Linktree with various links.
-      </>
-    ),
-  },
+  }
 ];
 
 function Feature({Svg, title, description, link}) {
