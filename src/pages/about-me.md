@@ -6,7 +6,7 @@ I am a Product Manager with a technical business analysis background in fintech 
 
 I drive teams to learn and adapt, fostering teamwork and a client-first mindset.
 
-[/contact](mailto:andrewdurbanjackson@gmail.com)
+[Contact](mailto:andrewdurbanjackson@gmail.com)
 
 ---
 
@@ -33,3 +33,12 @@ I’m an over sharer. I find it easy to be open and I think there’s humour in 
 
 
 I will see and champion the things you do well, that I don’t. This is what makes teams succeed (and the robots lose).
+
+---
+
+### My reading list
+
+We've never been in a more accessible age to discover and learn. My dream is to read, watch and listen to as many of the incredibly knowledgable people out there, and get paid to pass this onto others. Until then, I'll practice on friends and colleagues.
+
+
+[**My Reading List**](https://www.goodreads.com/review/list/178076303-andrew-d-urban-jackson?shelf=read)
