@@ -41,4 +41,4 @@ I will see and champion the things you do well, that I don’t. This is what mak
 We've never been in a more accessible age to discover and learn. My dream is to read, watch and listen to as many of the incredibly knowledgable people out there, and get paid to pass this onto others. Until then, I'll practice on friends and colleagues.
 
 
-[**My Reading List**](https://www.goodreads.com/review/list/178076303-andrew-d-urban-jackson?shelf=read)
+[**Reading List**](https://www.goodreads.com/review/list/178076303-andrew-d-urban-jackson?shelf=read)
